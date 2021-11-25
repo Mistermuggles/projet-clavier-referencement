@@ -6,38 +6,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Un super site pour voyager partout dans le monde !">
     <meta name="keywords" content="voyage, vacances, Grenoble">
+    <link href="style/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
     <title>Agence de voyage Grenoble</title>
 </head>
 <body>
     <h1>Agence de voyage Grenoble</h1>
-    <hr>
 
-    <h2>Menu</h2>
     <nav>
-        <a href="index.html">Accueil</a>
-        <a href="perso.html">Espace perso</a>
-        <a href="destinations.html">Destinations</a>
-        <a href="voyage-virtuel-audio.html">Voyage virtuel audio</a>
-        <a href="voyage-virtuel-video.html">Voyage virtuel vidéo</a>
-        <a href="contact.html">Contact</a></li>
+        <ul>
+            <li><a href="index.html" class="active">Accueil</a></li>
+            <li class="dropdown">
+                <a href="perso.html">Espace perso</a>
+                <div class="dropdown-content">
+                    <a href="#">Connexion</a>
+                    <a href="#">Mes informations</a>
+                    <a href="#">Messagerie</a>
+                    <a href="#">Historique</a>
+                </div>
+            </li>
+            <li><a href="destinations.html">Destinations</a></li>
+            <li><a href="voyage-virtuel-audio.html">Voyage virtuel audio</a></li>
+            <li><a href="voyage-virtuel-video.html">Voyage virtuel vidéo</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
     </nav>
-    <hr>
+    
 
-    <section>
-        <h1>Description générale</h1>
-
-        <blockquote>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam odit quae nulla eligendi? Ducimus exercitationem laborum dignissimos, voluptatibus minima dolore incidunt atque! Quaerat nisi in tempore quisquam repellendus sit eligendi, eum ex cum ea, aliquam, neque necessitatibus quidem aliquid maiores atque veritatis quia laborum fugiat? Quas distinctio laboriosam aperiam impedit.</blockquote>
-        <br>
-
-        <em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id excepturi dolorum eligendi aliquam commodi, officia maxime officiis distinctio! Sunt placeat ab tenetur, quos et mollitia, accusamus atque distinctio voluptas incidunt eum quidem harum saepe! Veniam, debitis, esse aperiam sunt natus asperiores ad vero nihil officiis, eveniet commodi laboriosam molestias tempora?</em>
-    </section>
-    <hr>
-
-
-    <section>
-        <h3>Informations pratiques</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati at itaque quibusdam dolorem recusandae odit, quia nemo saepe, incidunt, ea necessitatibus est ipsum. Eaque expedita, commodi nostrum dolores saepe quas quod ducimus vel eius! Magni, aliquid reiciendis amet repellendus quae perspiciatis laboriosam optio facilis recusandae natus, incidunt corrupti, veniam quasi!</p>
-    </section>
+    <div class="conteneur">
+        <section>
+            <h1>Description générale</h1>
+    
+            <blockquote>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam odit quae nulla eligendi? Ducimus exercitationem laborum dignissimos, voluptatibus minima dolore incidunt atque! Quaerat nisi in tempore quisquam repellendus sit eligendi, eum ex cum ea, aliquam, neque necessitatibus quidem aliquid maiores atque veritatis quia laborum fugiat? Quas distinctio laboriosam aperiam impedit.</blockquote>
+            <br>
+    
+            <em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id excepturi dolorum eligendi aliquam commodi, officia maxime officiis distinctio! Sunt placeat ab tenetur, quos et mollitia, accusamus atque distinctio voluptas incidunt eum quidem harum saepe! Veniam, debitis, esse aperiam sunt natus asperiores ad vero nihil officiis, eveniet commodi laboriosam molestias tempora?</em>
+        </section>
+      
+    
+    
+        <section>
+            <h3>Informations pratiques</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati at itaque quibusdam dolorem recusandae odit, quia nemo saepe, incidunt, ea necessitatibus est ipsum. Eaque expedita, commodi nostrum dolores saepe quas quod ducimus vel eius! Magni, aliquid reiciendis amet repellendus quae perspiciatis laboriosam optio facilis recusandae natus, incidunt corrupti, veniam quasi!</p>
+        </section>
+    </div>
+  
     
 </body>
 </html>
