@@ -1,4 +1,4 @@
-Sitemap: https://www.exemple.fr/sitemap.xml
+Sitemap: file:///C:/Users/thoma/Desktop/LP-MI/referencement/projet-clavier-referencement/sitemap.xml
 
 User-agent: *
 Disallow: /configurateur-clavier

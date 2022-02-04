@@ -1,0 +1,42 @@
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+    <loc>
+    http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/claviers-gaming.html
+    </loc>
+    <lastmod>2022-02-04T14:57:46+00:00</lastmod>
+    <priority>1.00</priority>
+</url>
+
+<url>
+    <loc>
+    http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/index.html
+    </loc>
+    <lastmod>2022-02-04T14:57:46+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+
+<url>
+    <loc>
+    http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/claviers-custom.html
+    </loc>
+    <lastmod>2022-02-04T14:57:46+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+
+<url>
+    <loc>
+    http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/claviers-bureautique.html
+    </loc>
+    <lastmod>2022-02-04T14:57:46+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+
+<url>
+    <loc>
+    http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/claviers-ergonomiques.html
+    </loc>
+    <lastmod>2022-02-04T14:57:46+00:00</lastmod>
+    <priority>0.80</priority>
+    </url>
+</urlset>
