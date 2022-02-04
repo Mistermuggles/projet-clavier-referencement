@@ -1,4 +1,6 @@
-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
 <url>
     <loc>
@@ -14,12 +16,12 @@
     http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/claviers-gaming.html
     </loc>
     <image:image>
-        <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/img/corsair-k95-rgb-platinum.png<image:loc>
+        <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/img/corsair-k95-rgb-platinum.png</image:loc>
         <image:caption>Une magnifique photo d'un clavier RGB Gamer</image:caption>
         <image:title>Clavier Gaming RGB</image:title>
     </image:image>
     <image:image>
-        <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/img/roccat-suora.jpg<image:loc>
+        <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/img/roccat-suora.jpg</image:loc>
     </image:image>
     <image:image>
         <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~reynardt/seo/projet-clavier-referencement/img/ducky.jpg</image:loc>
